@@ -12,6 +12,10 @@ This also helps to be unbanned from a game that uses some of these these for ban
 
 Well, Compile it from source and then when compiled throw it inside your plugins folder. And <b>BAM</b> everything is spoofed.
 
+## Exampled Spoofed Details
+
+![](https://user-images.githubusercontent.com/79751099/208853484-22f55a4a-5833-4b2e-b175-34d149e65ff1.png)
+
 ## Credits
 Rin (Gave me permission to use some old code and I just heavily added onto it)
 <br><br>
